@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking
+END
+AFHTTPClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFHTTPClient.m
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFNetworking.h
+END
+AFXMLRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFXMLRequestOperation.h
+END
+UIImageView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/UIImageView+AFNetworking.h
+END
+AFNetworkActivityIndicatorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFNetworkActivityIndicatorManager.h
+END
+AFXMLRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFXMLRequestOperation.m
+END
+UIImageView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/UIImageView+AFNetworking.m
+END
+AFJSONRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFJSONRequestOperation.h
+END
+AFNetworkActivityIndicatorManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFNetworkActivityIndicatorManager.m
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFURLConnectionOperation.h
+END
+AFJSONRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFJSONRequestOperation.m
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFURLConnectionOperation.m
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFHTTPRequestOperation.h
+END
+AFPropertyListRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFPropertyListRequestOperation.h
+END
+AFImageRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFImageRequestOperation.h
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFHTTPRequestOperation.m
+END
+AFHTTPClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFHTTPClient.h
+END
+AFPropertyListRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFPropertyListRequestOperation.m
+END
+AFImageRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dabin/!svn/ver/5/trunk/dabin/incorrect%202/incorrect/lib/AFNetworking/AFImageRequestOperation.m
+END
