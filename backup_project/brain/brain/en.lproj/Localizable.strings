@@ -1,0 +1,12 @@
+"게임시작" = "GameStart";
+"점수확인" = "ScoreCheck";
+"삭제" = "Delete";
+"맞은 갯수 : %d개" = "Correct Count : %d";
+"확인" = "Yes";
+"맞은 갯수 : 0개" = "Correct Count : 0";
+"점수기록" = "Score Record";
+"최대갯수" = "MaxScore";
+"게임결과" = "GameResult";
+"맞은갯수" = "Correct Count";
+"산수" = "Arithmetic";
+"암산왕" = "Memorizing";
